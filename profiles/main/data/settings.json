@@ -1,3 +1,86 @@
 {
-    "syncSettings.hooks.preUpload": ""
+  "window.commandCenter": false,
+  "dart.flutterSdkPath": "/Users/bruce/app/flutter",
+  "dart.analyzerInstrumentationLogFile": null,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.accessibilitySupport": "off",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 16,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "wxml": "html"
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "workbench.layoutControl.enabled": false,
+  "redhat.telemetry.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "dart.lineLength": 140,
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": true,
+  "git.openRepositoryInParentFolders": "never",
+  "terminal.integrated.inheritEnv": false,
+  "diffEditor.codeLens": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "autopep8.args": ["--max-line-length", "140"],
+  "editor.codeActionsOnSave": {},
+  "python.defaultInterpreterPath": "/opt/miniconda3/bin/python",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "dart.warnWhenEditingFilesOutsideWorkspace": false,
+  "parallels-desktop.extension.path": "C:\\Users\\bruce\\AppData\\Roaming\\ParallelsDesktop",
+  "parallels-desktop.brew.path": "/opt/homebrew/bin/brew",
+  "parallels-desktop.git.path": "/usr/bin/git",
+  "parallels-desktop.prlctl.path": "/usr/local/bin/prlctl",
+  "editor.wordWrapColumn": 140,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  },
+  "chat.commandCenter.enabled": false,
+  "[wxml]": {},
+  "minapp-vscode.formatMaxLineCharacters": 200,
+  "dart.runPubGetOnPubspecChanges": "never",
+  "[dart]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.inlayHints.enabled": "offUnlessPressed"
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "chat.agent.enabled": false,
+  "chat.agentSessionsViewLocation": "disabled",
+  "terminal.integrated.suggest.enabled": false
 }
